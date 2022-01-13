@@ -1,0 +1,18 @@
+.gridCell {
+    border: .5px solid;
+    height: 26.8px;
+}
+
+.gridRow {
+    display: flex;
+}
+
+.overallGrid {
+    margin: auto;
+    width: 15%;
+}
+
+.startMessage {
+    padding-top: 25px;
+    text-align: center;
+}
